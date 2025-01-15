@@ -1,0 +1,4 @@
+3
+weapon			640 zombie_hazard/huds/640hud171	0	0	170	45
+weapon_s		640 zombie_hazard/huds/640hud171	0	45	170	45
+ammo			640 zombie_hazard/huds/640hud18	121	231	24	24
