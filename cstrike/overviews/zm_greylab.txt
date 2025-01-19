@@ -1,0 +1,14 @@
+// overview description file for zm_greylab.bmp  (by so shut up BOI)
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	592.00 -816.00 -337.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_greylab.bmp"
+	HEIGHT	-337.0
+}
