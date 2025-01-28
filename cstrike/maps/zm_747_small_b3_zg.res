@@ -1,0 +1,13 @@
+gfx/env/dark_night_up.tga
+gfx/env/dark_night_dn.tga
+gfx/env/dark_night_lf.tga
+gfx/env/dark_night_rt.tga
+gfx/env/dark_night_ft.tga
+gfx/env/dark_night_bk.tga
+sprites/zm_747/enginesmoke.spr
+sprites/zm_747/vignette.spr
+models/player/guerilla/guerilla.mdl
+sound/ambience/de_747_drone.wav
+sound/zm_747_zg/thenosedive.wav
+sound/ambience/de_747_win.wav
+sound/zm_747_zg/engine.wav
