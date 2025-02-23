@@ -20,3 +20,4 @@ sprites/ngyl_mns3/torch.spr
 //
 models/ngyl_mns3/sink.mdl
 models/ngyl_mns3/wc.mdl
+models/fleshgibs.mdl
